@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentsProject</string>
+    <string name="create_user">Создать пользователя</string>
+    <string name="textName">Имя:</string>
+    <string name="textAge">Возраст:</string>
+    <string name="textAdress">Адрес:</string>
+    <string name="textEmail">Email:</string>
+    <string name="save_user">Сохранить</string>
+    <string name="send_user">Отправить</string>
+
+</resources>
